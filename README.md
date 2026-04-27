@@ -1,16 +1,23 @@
-## Hi there 👋
+## Eai, Beleza? 👋
 
-<!--
-**arthur-wso/arthur-wso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Opa! Sou Arthur, um programador Front-End de 16 anos, apaixonado por tecnologia e muito ansioso para contribuir com projetos para empresas e profissionais. Atualmente, estou aprendendo e desenvolvendo projetos com:
+- HTML
+- CSS
+- JavaScript
 
-Here are some ideas to get you started:
+### Fale comigo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/arthur-pereira-656489406/" target="_blank">
+    <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="mailto:arthurpereira.ws@gmail.com">
+    <img align="left" alt="E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
+</p>
+<br>
+<p>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-wso )](https://github.com/arthurwso/github-readme-stats )
+
+</p>
