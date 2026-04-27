@@ -8,7 +8,7 @@ Opa! Sou Arthur, um programador Front-End de 16 anos, apaixonado por tecnologia 
 ### Fale comigo:
 
 <p>
-  <a href="https://www.linkedin.com/in/arthur-pereira-656489406/" target="_blank">
+  <a href="https://www.linkedin.com/in/arthurpereirawso/" target="_blank">
     <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="mailto:arthurpereira.ws@gmail.com">
