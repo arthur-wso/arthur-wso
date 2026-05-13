@@ -17,7 +17,6 @@ Opa! Sou Arthur, um programador Front-End de 16 anos, apaixonado por tecnologia 
 </p>
 <br>
 <p>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-wso )](https://github.com/arthurwso/github-readme-stats )
+
 
 </p>
