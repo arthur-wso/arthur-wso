@@ -4,6 +4,7 @@ Opa! Sou Arthur, um programador Front-End de 16 anos, apaixonado por tecnologia 
 - HTML
 - CSS
 - JavaScript
+- Node.js
 
 ### Fale comigo:
 
